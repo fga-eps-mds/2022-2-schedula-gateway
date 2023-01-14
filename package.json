@@ -1,0 +1,8 @@
+{
+  "name": "2022-2-schedula-gateway",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:fga-eps-mds/2022-2-schedula-gateway.git",
+  "author": "Mateus Gomes <mateusgomes.nascimento21@gmail.com>",
+  "license": "MIT"
+}
